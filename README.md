@@ -1,0 +1,1 @@
+A capstone project exploring how Generative AI can improve airport passenger experience through smarter communication, content creation and visual design. The workflow covers prompt engineering, AI-tool selection, human review, source verification, privacy, risk assessment and responsible AI use.
